@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "898525368887",
+    "firebase_url": "https://dailymeal-b982b.firebaseio.com",
+    "project_id": "dailymeal-b982b",
+    "storage_bucket": "dailymeal-b982b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898525368887:android:2cf9214085b6f503fe25b2",
+        "android_client_info": {
+          "package_name": "com.example.dailymeal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898525368887-1dk3coe32ceb26lemsfr30957oei4mkr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABiahM5Qu-cMnDJpDKHh4spVk2_xpmnGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898525368887-1dk3coe32ceb26lemsfr30957oei4mkr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

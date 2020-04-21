@@ -1,0 +1,2 @@
+rootProject.name='dailymeal'
+include ':app'

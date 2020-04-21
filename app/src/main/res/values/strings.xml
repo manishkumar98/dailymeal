@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">dailymeal</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="registration">registration</string>
+    <string name="title_activity_delivery_person_maps">Map</string>
+    <string name="logout">Logout</string>
+</resources>
